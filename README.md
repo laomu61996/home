@@ -3,7 +3,7 @@
 <p>
 <strong><h2>主页</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个123
-  感谢dartnode.com的支持
+<strong><h2>非常感谢来自dartnode.com的支持</h2></strong>
 </p>
 
 ![無名の主页](/screenshots/main.jpg)
