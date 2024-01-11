@@ -1,8 +1,9 @@
 简体中文 | [English](./README_EN.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>主页</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个123
+  感谢dartnode.com的支持
 </p>
 
 ![無名の主页](/screenshots/main.jpg)
