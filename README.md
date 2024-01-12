@@ -7,7 +7,7 @@
 </p>
 
 [dartnode.com](dartnode.com)
-![logo](/screenshots/logo.png)
+![logo](/screenshots/dartnode.png)
 
 ![無名の主页](/screenshots/main.jpg)
 
