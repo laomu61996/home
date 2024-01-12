@@ -3,11 +3,11 @@ English | [Chinese](./README.md)
 <p>
 <strong><h2>無名の主页</h2></strong>
 Simple little homepage, had enough of the original one and made a new one
-  <strong><h2>Thank you very much for the support from dartnode.com</h2></strong>
+  <strong><h2>Thank you very much for the support from https://dartnode.com</h2></strong>
   
 </p>
 
-[dartnode.com](dartnode.com)
+[dartnode.com](https://dartnode.com)
 ![logo](/screenshots/dartnode.png)
 
 ![無名の主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
