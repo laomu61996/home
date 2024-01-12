@@ -3,10 +3,10 @@
 <p>
 <strong><h2>主页</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
-<strong><h2>非常感谢来自dartnode.com的支持</h2></strong>
+<strong><h2>非常感谢https://dartnode.com</h2></strong>
 </p>
 
-[dartnode.com](dartnode.com)
+[https://dartnode.com](dartnode.com)
 ![logo](/screenshots/dartnode.png)
 
 ![無名の主页](/screenshots/main.jpg)
